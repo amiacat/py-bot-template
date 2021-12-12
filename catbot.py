@@ -24,4 +24,4 @@ async def on_message(message):
             await message.channel.send(f'{message.author.name} isn\'t a Staff Member!')
             
         
-client.run('OTE2ODEzMTczNDY0NjMzMzU0.Yavmzg.2Rsl8W6jr35cTpRkAIDLaQFfg1U')
+client.run('')
