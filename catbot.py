@@ -24,4 +24,4 @@ async def on_message(message):
             await message.channel.send(f'{message.author.name} isn\'t a Staff Member!')
             
         
-client.run('')
+client.run('Set your token here/Coloque seu token aqui')
