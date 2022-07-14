@@ -1,7 +1,7 @@
 import discord
 from discord.user import Profile
 
-name_owner = 'doge\'s'
+name_owner = 'set your name here'
 client = discord.Client()
 
 @client.event
